@@ -15,7 +15,7 @@ The task was to:
 
 Below is a screenshot of the application:
 
-![Screenshot](screenshot.jpg)
+![Screenshot](./screenshot.jpg)
 
 ## Installation and Running the Project
 
